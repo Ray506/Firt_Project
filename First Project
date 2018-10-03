@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> My first Website </titile>
+	</head>
+
+	<body>
+
+	<a href="">Home</a><a href="">About</a><a href="">Statistics</a>
+
+	<img src = "pikachu_hi_pokemon.jpg"
+	alt = "https://cdn.ndtv.com/tech/images/gadgets/pikachu_hi_pokemon.jpg"
+	width = "104"
+	height = "142">
+
+	<h1> Bla-bla-bla </h1>
+	<h2> Hello! </h2>
+	<h3> This is my first website! </h3>
+	<ul>
+		<li>1</li>
+		<li>1</li>
+		<li>1</li>
+		<li>1</li>
+		<li>1</li>
+	</ul>
+
+	<button> CLICK </button>
+
+	<form action="/action_page.php">
+	Введите ваше Имя и Фамилию:<br> <input type="text" name ="name">
+	введите ваш e-mail:<br> <input type="email" name ="email">
+	<br><br>
+	<input type ="sublit">
+	</form>
+
+	<h1> We kindly ask you to contact us via this links: </h1>
+
+	<p>Email: <a href = "raiymbek.imangaliyev@nu.edu.kz">raiymbek.imangaliyev@nu.edu.kz</a></p>
+
+
+
+
+
+
+	</body>	
+</html>
